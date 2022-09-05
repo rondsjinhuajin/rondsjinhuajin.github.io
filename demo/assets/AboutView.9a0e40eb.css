@@ -1,0 +1,1 @@
+.animation{width:40px;height:40px;animation:move 3s infinite;background-color:#7fffd4}@keyframes move{to{left:100px}0%{left:0}}
