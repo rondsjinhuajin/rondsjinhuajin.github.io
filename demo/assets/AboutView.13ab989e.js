@@ -1,0 +1,1 @@
+import{_ as e,o as t,a as o,h as s}from"./index.0d50824e.js";const _={},c={class:"about"},n=s("div",{class:"animation"},null,-1),a=[n];function i(r,d){return t(),o("div",c,a)}const u=e(_,[["render",i]]);export{u as default};
